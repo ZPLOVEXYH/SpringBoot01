@@ -15,4 +15,8 @@ public class TestService {
     public String test2() {
         return "test2";
     }
+    
+    public String test3(){
+        return "test3";
+    }
 }
